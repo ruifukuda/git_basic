@@ -6,3 +6,4 @@ yellow
 gold
 silver
 pink
+green
